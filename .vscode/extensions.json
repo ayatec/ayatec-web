@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "arjun.swagger-viewer",
+    "mike-co.import-sorter",
+    "stylelint.vscode-stylelint",
+    "pmneo.tsimporter"
+  ]
+}
